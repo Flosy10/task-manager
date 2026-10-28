@@ -1,0 +1,5 @@
+tasks.json
+tasks_backup.json
+__pycache__/
+.venv/
+*.pyc
