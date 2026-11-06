@@ -1,5 +1,3 @@
-from asyncio import tasks
-
 import main
 from unittest.mock import Mock
 
