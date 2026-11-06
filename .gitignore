@@ -2,4 +2,5 @@ tasks.json
 tasks_backup.json
 __pycache__/
 .venv/
+.pytest_cache/
 *.pyc
